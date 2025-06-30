@@ -51,7 +51,7 @@ o	This helps in understanding seasonality in sales and revenue.
 ## Tools & Technologies
 This dashboard was developed using PowerBI
 
-##Interactivity
+## Interactivity
 The dashboard offers interactive elements to refine the displayed data:
 •	Year Filter (Top Right): Users can select 2009, 2010, 2011, or All to filter all dashboard visuals by the chosen year.
 •	Country Filter (Top Right): A dropdown menu allows users to select specific countries to focus the analysis on particular geographical markets.
