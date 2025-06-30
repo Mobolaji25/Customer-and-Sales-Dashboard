@@ -1,4 +1,4 @@
-## Customer and Sales Overview Dashboard
+## CUSTOMER AND SALES OVERVIEW DASHBOARD
 This dashboard provides a high-level overview of customer and sales performance, enabling users to quickly grasp key trends and identify top-performing areas.
 
 ## Dataset Used
